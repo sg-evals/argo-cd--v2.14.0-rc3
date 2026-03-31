@@ -1,6 +1,6 @@
 module github.com/argoproj/argo-cd/v2
 
-go 1.22.0
+go 1.25.0
 
 require (
 	code.gitea.io/sdk/gitea v0.19.0
@@ -87,7 +87,7 @@ require (
 	golang.org/x/exp v0.0.0-20241108190413-2d47ceb2692f
 	golang.org/x/net v0.32.0
 	golang.org/x/oauth2 v0.24.0
-	golang.org/x/sync v0.10.0
+	golang.org/x/sync v0.20.0
 	golang.org/x/term v0.27.0
 	golang.org/x/time v0.8.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20241104194629-dd2ea8efbc28
