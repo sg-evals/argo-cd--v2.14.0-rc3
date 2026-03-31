@@ -1,6 +1,6 @@
 module github.com/argoproj/argo-cd/v2
 
-go 1.22.0
+go 1.23
 
 require (
 	code.gitea.io/sdk/gitea v0.19.0
@@ -42,7 +42,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.1
 	github.com/golang/protobuf v1.5.4
 	github.com/google/btree v1.1.3
-	github.com/google/go-cmp v0.6.0
+	github.com/google/go-cmp v0.7.0
 	github.com/google/go-github/v66 v66.0.0
 	github.com/google/go-jsonnet v0.20.0
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
@@ -92,7 +92,7 @@ require (
 	golang.org/x/time v0.8.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20241104194629-dd2ea8efbc28
 	google.golang.org/grpc v1.68.1
-	google.golang.org/protobuf v1.35.2
+	google.golang.org/protobuf v1.36.11
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/api v0.31.0
