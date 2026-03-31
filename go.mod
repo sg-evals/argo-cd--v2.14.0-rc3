@@ -109,7 +109,7 @@ require (
 	oras.land/oras-go/v2 v2.5.0
 	sigs.k8s.io/controller-runtime v0.19.3
 	sigs.k8s.io/structured-merge-diff/v4 v4.4.4-0.20241211184406-7bf59b3d70ee
-	sigs.k8s.io/yaml v1.4.0
+	sigs.k8s.io/yaml v1.6.0
 )
 
 require (
@@ -150,6 +150,8 @@ require (
 	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.53.0 // indirect
 	go.starlark.net v0.0.0-20230525235612-a134d8f9ddca // indirect
+	go.yaml.in/yaml/v2 v2.4.2 // indirect
+	go.yaml.in/yaml/v3 v3.0.3 // indirect
 	golang.org/x/mod v0.22.0 // indirect
 	golang.org/x/sys v0.28.0 // indirect
 	golang.org/x/text v0.21.0 // indirect
